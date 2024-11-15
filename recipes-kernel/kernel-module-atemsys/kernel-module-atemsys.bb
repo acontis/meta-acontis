@@ -1,6 +1,6 @@
 SUMMARY = "acontis atemsys user mode driver"
-LICENSE = "GPL-2.0 WITH Linux-syscall-note"
-LIC_FILES_CHKSUM = "file://COPYING;md5=12f884d2ae1ff87c09e5b7ccc2c4ca7e"
+LICENSE = "GPL-2.0-only"
+LIC_FILES_CHKSUM = "file://COPYING;md5=f3033d8ddc2e0552a85bb08fe1cf24d9"
 
 inherit module
 
